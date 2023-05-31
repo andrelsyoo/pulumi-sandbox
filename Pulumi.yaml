@@ -1,4 +1,4 @@
-name: quickstart
+name: pulumi-sandbox
 runtime:
   name: python
   options:
